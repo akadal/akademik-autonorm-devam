@@ -1,0 +1,55 @@
+[
+  {
+    "UID": "WOS:000368559000019",
+    "Title": "A comprehensive comparison of features and embedding methods for face recognition",
+    "Authors": "Yavuz, Hasan Serhan; Cevikalp, Hakan; Edizkan, Rifat",
+    "Journal": "TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES",
+    "Year": 2016,
+    "DOI": "10.3906/elk-1301-65",
+    "Times_Cited": 1,
+    "Abstract": ": Face recognition is an essential issue in modern-day applications since it can be used in many areas for several purposes. Many methods have been proposed for face recognition. It is a diﬃcult task since variations in lighting, instantaneous mimic varieties, posing angles, and scaling diﬀerences can drastically change the appearance of the face. To suppress these complications, eﬀective feature extraction and proper alignment of face images gain as much importance as the recognition method choice. In this paper, we provide an extensive comparison of the state-of-the-art face recognition methods with the most well-known techniques used in feature representation. In order to test the performances of these various methods, we created a new face database, named the ESOGU face database, which includes frontal images of 100 people taken under diﬀerent lighting and posing conditions. In addition to our new database, we also present experiments on the well-known AR face database to obtain more general and reliable results. Moreover, we investigate the automatic face detection and automatic normalization of the face images in the databases. Based on this, we discuss the use of such automatic methods for face recognition applications.",
+    "Keywords": "Face recognition; feature extraction; face database; face detection; classification",
+    "Document_Type": "",
+    "Editions": "",
+    "Volume": "24",
+    "Issue": "1",
+    "Pages": {
+      "range": "313-340",
+      "begin": "313",
+      "end": "340",
+      "count": 28
+    },
+    "Publisher": "",
+    "Language": "",
+    "References_Count": 0,
+    "Open_Access": true,
+    "PDF_URL": "https://doi.org/10.3906/elk-1301-65",
+    "PDF_Path": "",
+    "Fetched_At": "2026-05-05T09:00:46.431296"
+  },
+  {
+    "UID": "WOS:001578521900001",
+    "Title": "Automatic genetic phenotype normalization from dysmorphology physical examinations: an overview of the BioCreative VIII-Task 3 competition",
+    "Authors": "Weissenbacher, Davy; Zhao, Xinwei; Priestley, Jessica R. C.; Szigety, Katherine M.; Schmidt, Sarah F.; O'Connor, Karen; Soysal, Ekin; Roberts, Kirk; Qi, Jiewei; Luo, Ling; Yang, Zhihao; Lin, Hongfei; Kim, Hajung; Kim, Chanhwi; Sohn, Jiwoong; Beck, Tim; Rei, Marek; Kim, Sunkyu; Simpson, T. Ian; Posma, Joram M.; Lain, Antoine; Sung, Mujeen; Kang, Jaewoo; Alhassan, Areej; Schlegel, Viktor; Aloud, Monira; Batista-Navarro, Riza; Nenadic, Goran; Lin, Ying-Jia; Feng, Zhi-Quan; Kao, Hung-Yu; Campbell, Ian M.; Gonzalez-Hernandez, Graciela",
+    "Journal": "DATABASE-THE JOURNAL OF BIOLOGICAL DATABASES AND CURATION",
+    "Year": 2025,
+    "DOI": "10.1093/database/baaf051",
+    "Times_Cited": 1,
+    "Abstract": "Abstract We present here an overview of the BioCreative VIII Task 3 competition, which called for the development of state-of-the-art approaches to automatic normalization of observations noted by physicians in dysmorphology physical examinations to the Human Phenotype Ontology (HPO). We made available for the task 3136 deidentified and manually annotated observations extracted from electronic health records of 1652 paediatric patients at the Children’s Hospital of Philadelphia. This task is challenging due to the discontinuous, overlapping, and descriptive mentions of the observations corresponding to HPO terms, severely limiting the performance of straightforward strict matching approaches. Ultimately, an effective automated solution to the task will facilitate computational analysis that could uncover novel correlations and patterns of observations in patients with rare genetic diseases, enhance our understanding of known genetic conditions, and even identify previously unrecognized conditions. A total of 20 teams registered, and 5 teams submitted their predictions. We summarize the corpus, the competing systems approaches, and their results. The top system used a pre-trained large language model and achieved a 0.82 F1 score, which is close to human performance, confirming the impact that recent advances in natural language processing can have on tasks such as this. The post-evaluation period of the challenge, at https://codalab.lisn.upsaclay.fr/competitions/11351, will be open for submissions for at least 18 months past the end of the competition. Database URL: https://codalab.lisn.upsaclay.fr/competitions/11351",
+    "Keywords": "",
+    "Document_Type": "",
+    "Editions": "",
+    "Volume": "2025",
+    "Issue": "",
+    "Pages": {
+      "count": 11
+    },
+    "Publisher": "",
+    "Language": "",
+    "References_Count": 0,
+    "Open_Access": false,
+    "PDF_URL": "",
+    "PDF_Path": "",
+    "Fetched_At": "2026-05-05T09:00:47.728409"
+  }
+]

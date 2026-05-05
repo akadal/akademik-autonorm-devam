@@ -1,0 +1,80 @@
+[
+  {
+    "UID": "WOS:001293612000009",
+    "Title": "Self-tuning Database Systems: A Systematic Literature Review of Automatic Database Schema Design and Tuning",
+    "Authors": "Mozaffari, Maryam; Dignos, Anton; Gamper, Johann; Stoerl, Uta",
+    "Journal": "ACM COMPUTING SURVEYS",
+    "Year": 2024,
+    "DOI": "10.1145/3665323",
+    "Times_Cited": 5,
+    "Abstract": "Self-tuning is a feature of autonomic databases that includes the problem of automatic schema design. It aims at providing an optimized schema that increases the overall database performance. While in relational databases automatic schema design focuses on the automated design of the physical schema, in NoSQL databases all levels of representation are considered: conceptual, logical, and physical. This is mainly because the latter are mostly schema-less and lack a standard schema design procedure as is the case for SQL databases. In this work, we carry out a systematic literature survey on automatic schema design in both SQL and NoSQL databases. We identify the levels of representation and the methods that are used for the schema design problem, and we present a novel taxonomy to classify and compare different schema design solutions. Our comprehensive analysis demonstrates that, despite substantial progress that has been made, schema design is still a developing field and considerable challenges need to be addressed, notably for NoSQL databases. We highlight the most important findings from the results of our analysis and identify areas for future research work.",
+    "Keywords": "Data modeling; schema design and tuning; self-tuning databases; NoSQL databases; SQL databases",
+    "Document_Type": "",
+    "Editions": "",
+    "Volume": "56",
+    "Issue": "11",
+    "Pages": {
+      "count": 37
+    },
+    "Publisher": "",
+    "Language": "",
+    "References_Count": 0,
+    "Open_Access": true,
+    "PDF_URL": "https://dl.acm.org/doi/pdf/10.1145/3665323",
+    "PDF_Path": "",
+    "Fetched_At": "2026-05-05T09:00:49.142669"
+  },
+  {
+    "UID": "WOS:000369423900006",
+    "Title": "The combination of adaptive database SDM and multi-output SVM for eddy current testing",
+    "Authors": "Chelabi, M.; Hacib, T.; Belli, Z.; Mekideche, M. R.; Le Bihan, Y.",
+    "Journal": "COMPEL-THE INTERNATIONAL JOURNAL FOR COMPUTATION AND MATHEMATICS IN ELECTRICAL AND ELECTRONIC ENGINEERING",
+    "Year": 2015,
+    "DOI": "10.1108/COMPEL-12-2014-0348",
+    "Times_Cited": 4,
+    "Abstract": "Purpose – Eddy current testing (ECT) is a nondestructive testing method for the detection of flaws that uses electromagnetic induction to find defects in conductive materials. In this method, eddy currents are generated in a conductive material by a changing magnetic field. A defect is detected when there is a disruption in the flow of the eddy current. The purpose of this paper is to develop a new noniterative inversion methodology for detecting degradation (defect characterization) such as cracking, corrosion and erosion from the measurement of the impedance variations. Design/methodology/approach – The methodology is based on multi-output support vector machines (SVM) combined with the adaptive database schema design method (SDM). The forward problem was solved numerically using finite element method (FEM), with its accuracy experimentally verified. The multi-output SVM is a statistical learning method that has good generalization capability and learning performance. FEM is used to create the adaptive database required to train the multi-output SVM and the genetic algorithm is used to tune the parameters of multi-output SVM model. Findings – The results show the applicability of multi-output SVM to solve eddy current inverse problems instead of using traditional iterative inversion methods which can be very time-consuming. With the experimental results the authors demonstrate the accuracy which can be provided by the multi-output SVM technique. Practical implications – The work allows extending the capability of the experimentation ECT defect characterization system developed at LGEP. Originality/value – A new inversion method is developed and applied to ECT defect characterization. This new concept introduces multi-output SVM in the context of ECT. The real data together with estimated one obtained by multi-output SVM model are compared in order to evaluate the effectiveness of the developed technique.",
+    "Keywords": "Finite element modeling; Adaptive techniques; Finite element method; Eddy current testing; Multi-output support vector machines; Adaptive database schema design method; Defect characterization",
+    "Document_Type": "",
+    "Editions": "",
+    "Volume": "34",
+    "Issue": "6",
+    "Pages": {
+      "range": "1731-1739",
+      "begin": "1731",
+      "end": "1739",
+      "count": 9
+    },
+    "Publisher": "",
+    "Language": "",
+    "References_Count": 0,
+    "Open_Access": false,
+    "PDF_URL": "",
+    "PDF_Path": "",
+    "Fetched_At": "2026-05-05T09:00:50.257790"
+  },
+  {
+    "UID": "WOS:000768223300001",
+    "Title": "INTEGRITY CONSTRAINTS REVISITED: FROM EXACT TO APPROXIMATE IMPLICATION",
+    "Authors": "Kenig, Batya; Suciu, Dan",
+    "Journal": "LOGICAL METHODS IN COMPUTER SCIENCE",
+    "Year": 2020,
+    "DOI": "10.46298/LMCS-18(1:5)2022",
+    "Times_Cited": 6,
+    "Abstract": "Integrity constraints such as functional dependencies (FD) and multi-valued\ndependencies (MVD) are fundamental in database schema design. Likewise,\nprobabilistic conditional independences (CI) are crucial for reasoning about\nmultivariate probability distributions. The implication problem studies whether\na set of constraints (antecedents) implies another constraint (consequent), and\nhas been investigated in both the database and the AI literature, under the\nassumption that all constraints hold exactly. However, many applications today\nconsider constraints that hold only approximately. In this paper we define an\napproximate implication as a linear inequality between the degree of\nsatisfaction of the antecedents and consequent, and we study the relaxation\nproblem: when does an exact implication relax to an approximate implication? We\nuse information theory to define the degree of satisfaction, and prove several\nresults. First, we show that any implication from a set of data dependencies\n(MVDs+FDs) can be relaxed to a simple linear inequality with a factor at most\nquadratic in the number of variables; when the consequent is an FD, the factor\ncan be reduced to 1. Second, we prove that there exists an implication between\nCIs that does not admit any relaxation; however, we prove that every\nimplication between CIs relaxes \"in the limit\". Then, we show that the\nimplication problem for differential constraints in market basket analysis also\nadmits a relaxation with a factor equal to 1. Finally, we show how some of the\nresults in the paper can be derived using the I-measure theory, which relates\nbetween information theoretic measures and set theory. Our results recover, and\nsometimes extend, previously known results about the implication problem: the\nimplication of MVDs and FDs can be checked by considering only 2-tuple\nrelations.",
+    "Keywords": "Integrity constraints; the implication problem",
+    "Document_Type": "",
+    "Editions": "",
+    "Volume": "18",
+    "Issue": "1",
+    "Pages": {
+      "count": 40
+    },
+    "Publisher": "",
+    "Language": "",
+    "References_Count": 0,
+    "Open_Access": true,
+    "PDF_URL": "https://lmcs.episciences.org/8943/pdf",
+    "PDF_Path": "",
+    "Fetched_At": "2026-05-05T09:00:53.457115"
+  }
+]

@@ -18,9 +18,10 @@ Bu repo, Emre Akadal'ın 2022 yılında Acta Informatica Pragensia'da yayınlana
 | Dosya | Açıklama |
 |-------|----------|
 | [`README.md`](README.md) | Bu dosya — proje özeti |
-| [`fikirler/`](fikirler/) | 5 devam çalışma fikri ve detayları |
+| [`fikirler/`](fikirler/) | 6 devam çalışma fikri ve detayları |
 | [`gap-analizi.md`](gap-analizi.md) | Orijinal çalışmanın literatürdeki boşlukları (gap'ler) |
 | [`DSRM-FEDS-raporu.md`](DSRM-FEDS-raporu.md) | Design Science Research Methodology + FEDS değerlendirme çerçevesi raporu |
+| [`wos-aramalari/`](wos-aramalari/) | Web of Science sistematik tarama sonuçları ve JSON verileri |
 
 ## 💡 Devam Çalışma Fikirleri
 
@@ -43,6 +44,11 @@ Bu repo, Emre Akadal'ın 2022 yılında Acta Informatica Pragensia'da yayınlana
 5. **[Blockchain / Merkeziyetsiz VT](fikirler/05-blockchain-merkeziyetsiz-vt.md)** ⭐⭐⭐
    - İki uzmanlığın kesişimi: Blockchain + Veritabanı tasarımı
    - Web3 / DApp geliştiricileri için araç
+
+6. **[Missing Value ile VT Tasarımı](fikirler/06-missing-value-vt-tasarimi.md)** ⭐⭐⭐
+   - 5. fitness function: Missing value robustness
+   - WoS'ta ACM TODS (2021, 15 atıf) tarafından tanımlanan gap
+   - NULL değerlerin yayılmasını önleyen otomatik şema tasarımı
 
 ## 🔬 Metodoloji
 
